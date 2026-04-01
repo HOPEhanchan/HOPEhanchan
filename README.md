@@ -30,7 +30,7 @@ Ruby / Ruby on Rails / PostgreSQL / Hotwire / TailwindCSS / Docker
 
 ### AiRoute
 
-<img src="https://i.gyazo.com/c1e903cd30a892c7f23455c47855d55f.png" width="750"/>
+<img src="https://i.gyazo.com/e98edd91bb2314155ddb9e6ad6dbc7d0.jpg" width="750"/>
 
 “「いつか行きたい」で終わらせない。”  
 **Don't let "I want to go someday" end as just a thought.**
