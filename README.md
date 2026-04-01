@@ -30,8 +30,11 @@ Ruby / Ruby on Rails / PostgreSQL / Hotwire / TailwindCSS / Docker
 
 ### AiRoute
 
+<img src="https://i.gyazo.com/c1e903cd30a892c7f23455c47855d55f.png" width="750"/>
+
 “「いつか行きたい」で終わらせない。”  
 **Don't let "I want to go someday" end as just a thought.**
+
 
 A web application that helps users organize places they want to visit and turn them into real travel plans.
 
@@ -50,11 +53,12 @@ Soccer penalty kick mini-game built with Rails and Hotwire.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HOPEhanchan&show_icons=true)
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HOPEhanchan&show_icons=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOPEhanchan&layout=compact"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOPEhanchan&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HOPEhanchan)
+<img src="https://streak-stats.demolab.com/?user=HOPEhanchan"/>
 
 ---
 
