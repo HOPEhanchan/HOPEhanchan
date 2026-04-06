@@ -39,7 +39,7 @@ Ruby / Ruby on Rails / PostgreSQL / Hotwire / TailwindCSS / Docker
 A web application that helps users organize places they want to visit and turn them into real travel plans.
 
 [GitHub](https://github.com/HOPEhanchan/Ai_Route_prototype)  
-[Service](https://ai-route-prototype.onrender.com/)
+[Service](https://ai-route-prototype.onrender.com/) (*test-ID: `test@test.com` / password: `testuser`)
 
 
 
