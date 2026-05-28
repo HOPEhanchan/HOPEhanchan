@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=Hi%20👋%20I'm%20HOPE&fontSize=50&fontAlignY=35)
 
 <!-- タイピング文字 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=750&lines=Ruby+on+Rails+Developer;Building+AiRoute;Focused+on+UX+and+product+thinking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=34D399&width=650&lines=I+Love+Programming;Building+AiRoute+etc.;Focused+on+UX+and+product+thinking)](https://git.io/typing-svg)
 
 
 
